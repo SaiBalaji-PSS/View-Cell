@@ -1,0 +1,14 @@
+C:\Users\Ravi\source\repos\sample\sample\bin\Debug\netstandard2.0\sample.deps.json
+C:\Users\Ravi\source\repos\sample\sample\bin\Debug\netstandard2.0\sample.dll
+C:\Users\Ravi\source\repos\sample\sample\bin\Debug\netstandard2.0\ref\sample.dll
+C:\Users\Ravi\source\repos\sample\sample\bin\Debug\netstandard2.0\sample.pdb
+C:\Users\Ravi\source\repos\sample\sample\obj\Debug\netstandard2.0\sample.csprojAssemblyReference.cache
+C:\Users\Ravi\source\repos\sample\sample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ravi\source\repos\sample\sample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ravi\source\repos\sample\sample\obj\Debug\netstandard2.0\sample.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\source\repos\sample\sample\obj\Debug\netstandard2.0\sample.AssemblyInfoInputs.cache
+C:\Users\Ravi\source\repos\sample\sample\obj\Debug\netstandard2.0\sample.AssemblyInfo.cs
+C:\Users\Ravi\source\repos\sample\sample\obj\Debug\netstandard2.0\sample.dll
+C:\Users\Ravi\source\repos\sample\sample\obj\Debug\netstandard2.0\ref\sample.dll
+C:\Users\Ravi\source\repos\sample\sample\obj\Debug\netstandard2.0\sample.pdb
+C:\Users\Ravi\source\repos\sample\sample\obj\Debug\netstandard2.0\XamlC.stamp
